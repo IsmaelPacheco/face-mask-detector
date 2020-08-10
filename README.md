@@ -1,2 +1,3 @@
-# face-mask-detector
-Implementação de scripts para Detector de Máscara Facial.
+## Detector de Máscara Facial
+
+Arquivos para implementação de scripts para detecção de máscara facial em tempos de COVID-19. 
